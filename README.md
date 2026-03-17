@@ -1,6 +1,6 @@
 <div align="center">
 
-# Optimization Techniques
+# Optimization Techniques Projects
 
 **Course Project Portfolio**
 
