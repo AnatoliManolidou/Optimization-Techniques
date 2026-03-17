@@ -1,6 +1,14 @@
-# Optimization Techniques - Course Project Portfolio
+<div align="center">
 
-Course lab work for the class Optimization Techniques (ECE AUTH, 2024-2025).
+# Optimization Techniques
+
+**Course Project Portfolio**
+
+Optimization Techniques - ECE AUTH, 2024-2025
+
+---
+
+</div>
 
 This repository collects the full practical work of the semester:
 - MATLAB implementations of optimization algorithms
@@ -130,3 +138,9 @@ Notes:
 - Gradient/Hessian based method development
 - Projection methods for constrained optimization
 - Experimental comparison through reproducible plots and metrics
+
+---
+
+<div align="center">
+<sub>Aristotle University of Thessaloniki — School of Electrical & Computer Engineering</sub>
+</div>
