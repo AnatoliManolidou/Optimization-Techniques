@@ -117,20 +117,6 @@ Together with the MATLAB code, these files provide:
 - experimental setup
 - result discussion and conclusions
 
-## How To Run
-
-Prerequisites:
-- MATLAB (or compatible environment such as GNU Octave for most scripts)
-
-Basic usage:
-1. Open a specific script from a lab's `Matlab` folder.
-2. Run the script from the MATLAB editor.
-3. Inspect generated figures for convergence and method comparison.
-
-Notes:
-- Scripts are self-contained and define test functions internally.
-- Most scripts execute multiple experiments sequentially and open several figures.
-
 ## Skills Demonstrated
 
 - Implementation of classical optimization algorithms from scratch
@@ -138,9 +124,12 @@ Notes:
 - Gradient/Hessian based method development
 - Projection methods for constrained optimization
 - Experimental comparison through reproducible plots and metrics
+<<<<<<< HEAD
 
 ---
 
 <div align="center">
 <sub>Aristotle University of Thessaloniki — School of Electrical & Computer Engineering</sub>
 </div>
+=======
+>>>>>>> 17e332594af814cce18b9dc52724d8e7e63d43e8
