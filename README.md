@@ -124,12 +124,8 @@ Together with the MATLAB code, these files provide:
 - Gradient/Hessian based method development
 - Projection methods for constrained optimization
 - Experimental comparison through reproducible plots and metrics
-<<<<<<< HEAD
-
 ---
 
 <div align="center">
 <sub>Aristotle University of Thessaloniki — School of Electrical & Computer Engineering</sub>
 </div>
-=======
->>>>>>> 17e332594af814cce18b9dc52724d8e7e63d43e8
